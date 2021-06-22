@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @dd110343
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 个人信息
+姓名：戴伟伟
+学校：石家庄铁道大学
+手机：18132010351
+Email：1103438246@qq.com
+QQ：1103438246
 
-<!---
-dd110343/dd110343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 项目经历
+#### 疫情可视化
+使用爬虫爬取每天疫情信息，实时计算更新在网页端，可实时显示现存感染人数、死亡人数、治愈人数等，并且实时显示在地图上，可数据下钻至省市。
+#### 公文流转系统
+基本的公文流转系统，按照等级和流程进行公文流转。
+#### 校园百晓生app
+爬虫爬取学校新闻，并且集成了聊天功能，同学和老师可在app上查看例如学校新闻、失物招领等信息，校园热事早知道。
+#### 云端智能相册
+中国软件杯2021年A5赛题，使用Flask框架进行项目管理，在完成大赛的基本要求后又加入了旅行地图和时光轴的特色功能。
+#### 互联网与地摊经济数据分析
+参加大学生创新创业项目，发表省级期刊论文2篇。
+
+#### 技能掌握
+》具备扎实的Java基础和面向对象的编程思想，能够灵活运用多线程、集合、反射、泛型及代理等，熟悉JDK8 新特性，有良好的的编码习惯。
+》熟练掌握 SSM等开源框架，熟练掌握多个框架底层源码，熟练掌握SpringBoot2.0微服 务开发。
+》熟悉SpringCloud等分布式微服务框架和常用组件。
+》熟悉并发编程之JUC常用包，深刻理解并发编程的对象 锁机制。熟练掌握Java内存模型。
+》熟悉MySql数据库及索引数据结构，能熟练编写SQL语句，理解MySQL的InnoDB 和 MylSAM存储引擎，掌握 MySQL主从复制原理，能够合理分库分表。
+》热悉Linux的常用命令，能在Linux环境上快速定 位故障并对服务器性能进行分析。
+》熟练掌握IDEA、Git、Maven、Docker等开发及版本控制工具。
+》熟悉rabbitMQ等 消息中间件的使用，熟悉五种消息模型，了解rabbitMQ延迟队列+死信队列构建定时任务、信息传递等功能使用。
+》理解JVM内存模型及常见的GC垃圾收集器。 10.熟练使用nginx反向代理，负载均衡，动静分离。
